@@ -18,7 +18,7 @@ Sync Resilio is a professional-grade file synchronization solution built on peer
 ---
 
 ## Overview of Sync Resilio Capabilities
-![Sync Resilio Network Visualization](https://help.resilio.com/hc/article_attachments/360000150800/7.jpg)
+![Sync Resilio Network Visualization](https://www.resilio.com/documentation/content/agents/img/agent-ui/agent-ui-folders.png)
 
 ---
 
